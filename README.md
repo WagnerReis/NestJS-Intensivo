@@ -1,6 +1,6 @@
-##Repositório do intensivo de NestJS do canal FullCycle
+## Repositório do intensivo de NestJS do canal FullCycle
 
-#Temas abordados:
+# Temas abordados:
 - API REST
 - Cron Job
 - Queues
